@@ -1,3 +1,5 @@
 # Sticky_NavBar
 
-![](https://github.com/hamdeth3/Sticky_NavBar/blob/main/stickyNavbarGIF.gif)
+Project GIF :
+
+![](https://github.com/hamdeth3/Projects/blob/main/25%20-%20Sticky%20NavBar/stickyNavbarGIF.gif)
