@@ -1,3 +1,5 @@
 # Progress_Steps
 
-![](https://github.com/hamdeth3/Projects/blob/main/2%20-%20Progress%20Steps/progressStepsGIF.gif)
+Project GIF :
+
+![](https://github.com/hamdeth3/Projects/blob/main/2-Progress%20Steps/progressStepsGIF.gif)
