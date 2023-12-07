@@ -1,3 +1,5 @@
 # FAQ_Collapse
 
-![](https://github.com/hamdeth3/FAQ_Collapse/blob/main/faqCollapseGIF.gif)
+Project GIF :   
+
+![](https://github.com/hamdeth3/Projects/blob/main/12-FAQ%20Collapse/faqCollapseGIF.gif)
