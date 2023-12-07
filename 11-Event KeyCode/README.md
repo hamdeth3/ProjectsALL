@@ -2,4 +2,6 @@
 
 Her bir klavye tuşuna basma işleminde basılan tuşu ve karşılıklarını veren basit bir uygulama
 
-![](https://github.com/hamdeth3/Event_KeyCodes/blob/main/eventKeyCodesGIF.gif)
+Project GIF :
+
+![](https://github.com/hamdeth3/Projects/blob/main/11-Event%20KeyCode/eventKeyCodesGIF.gif)
